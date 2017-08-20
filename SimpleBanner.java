@@ -1,6 +1,6 @@
 import java.awt.*; 
 import java.applet.*;
-//<OBJECT code="SimpleBanner" width=300 height=50> </OBJECT>
+//<APPLET code="SimpleBanner" width=300 height=50> </APPLET>
 public class SimpleBanner extends Applet implements Runnable 
 { 
     String msg = " Watch me run!"; Thread t = null; int state; boolean stopFlag;
