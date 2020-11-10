@@ -1,2 +1,2 @@
 # Java Applets
-Simple applet demonstration using Java 
+Simple applet demonstration using Java.
